@@ -1,4 +1,3 @@
-First install python https://www.python.org/downloads/
 
 pip install django
 
